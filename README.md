@@ -74,8 +74,4 @@ Just open **`Project2_Iris_Classification.html`** or **`Project2_Iris_Classifica
 - scikit-learn
 - jupyter / notebook (only needed to *run* the `.ipynb`, not to view the `.html`/`.pdf`)
 
-## 👤 Submission Note
-Remember to replace `(Your Name Here)` at the top of the notebook/PDF with your actual name before submitting.
-
----
 *DecodeLabs | www.decodelabs.tech | decodelabs.tech@gmail.com*
